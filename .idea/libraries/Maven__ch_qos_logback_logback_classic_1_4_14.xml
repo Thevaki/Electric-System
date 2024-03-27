@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: ch.qos.logback:logback-classic:1.4.14">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.4.14/logback-classic-1.4.14.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.27" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.4.14/logback-classic-1.4.14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.4.14/logback-classic-1.4.14-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.27" recursive="false" />
+  </library>
+</component>
